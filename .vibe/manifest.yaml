@@ -1,6 +1,0 @@
-name: frog-website-4
-template: spa
-created_at: "2026-04-02T20:50:12.852Z"
-created_by: frogguy1
-services:
-  - workers
